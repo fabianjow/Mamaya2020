@@ -1,2 +1,2 @@
 # Mamaya2020
-Ngee Ann Poly Practical full
+Ngee Ann Poly full practical 
