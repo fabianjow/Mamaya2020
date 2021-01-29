@@ -1,8 +1,8 @@
 <?php
 $PayPalMode 		= 'sandbox';//sandbox or live
-$PayPalApiUsername 	= 'sb-w47qzr3939282_api1.business.example.com'; 		//PayPal API Username
-$PayPalApiPassword 	= 'PPTZ72D6LCVR23EE'; 		//Paypal API password
-$PayPalApiSignature = 'A9oMHA2rJ3vM0HtRgRGbn3EdUgZ5Al7pcs78zaRgoVLOblf-9NUk2QF-'; 		//Paypal API Signature
+$PayPalApiUsername 	= ''; 		//PayPal API Username
+$PayPalApiPassword 	= ''; 		//Paypal API password
+$PayPalApiSignature = ''; 		//Paypal API Signature
 $PayPalCurrencyCode = 'SGD'; 	//Paypal Currency Code
 //URL to redirect to after PayPal has complete the online payment
 $PayPalReturnURL 	= 'http://localhost:8081/mamaya/checkoutProcess.php'; 
